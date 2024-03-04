@@ -35,7 +35,6 @@
 
 
 ## Program:
-
 ```
 #importing required libraries
 from pgmpy.models import BayesianNetwork
@@ -98,7 +97,10 @@ print(query_result)
 
 
 ## Output:
-![image](https://github.com/ShamRathan/Ex-3--AAI/assets/93587823/e4ba6052-9ae4-475d-8756-e48dc419237d)
+![image](https://github.com/ShamRathan/Ex-3--AAI/assets/93587823/b51f2bfa-89e2-49e3-9d98-5d5990fc3239)
+![image](https://github.com/ShamRathan/Ex-3--AAI/assets/93587823/43bea7fe-2cc4-4d70-86f4-ec23067c1edb)
+![image](https://github.com/ShamRathan/Ex-3--AAI/assets/93587823/8959d2b5-c458-467a-9e29-c24377d3a57e)
+
 
 
 ## Result:
